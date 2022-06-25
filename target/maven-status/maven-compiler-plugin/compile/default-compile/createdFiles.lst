@@ -1,0 +1,3 @@
+com\lyc\entity\TransferRecord.class
+com\lyc\bulkload\mr\BankRecordBulkLoad$BankRecordMapper.class
+com\lyc\bulkload\mr\BankRecordBulkLoad.class
